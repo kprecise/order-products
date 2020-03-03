@@ -1,12 +1,12 @@
 import React from "react";
 import { Container, Row, Col } from 'reactstrap';
-import "./main.css";
+import "./styles/main.css";
 
 const App = () => (
     <Container>
         <Row>
             <Col xs="12">
-                <h1>Superheroes</h1> 
+                <h1>Order Products</h1> 
             </Col>
         </Row>
         <Row>
